@@ -32,7 +32,7 @@ layout: home
 <p>The smart contracts used to build this DAO will be available to the public and will help other DAOs to be created using the Stellar Network.
 </p>
 
-<p>You can find our community here: <a href="https://discord.gg/uqyMD8Gk" target="_blank">The Turrets DOA Discord Server</a></p>
+<p>You can find our community here: <a href="https://discord.gg/8e5uDV9u97" target="_blank">The Turrets DOA Discord Server</a></p>
 <p>You can find our source code at GitHub: <a href="https://github.com/the-turrets-dao" target="_blank">The Turrets DAO GitHub Repo's</a></p>
 
 ### Watch our SCF #9 submission video: 
